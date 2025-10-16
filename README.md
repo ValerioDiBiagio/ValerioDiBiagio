@@ -70,7 +70,7 @@ When I’m not coding, I enjoy:
 
 ---
 
-## Contact 📬
+## 📬 Contacts
 ### Let’s Connect
 - **Email:** ✉️ dibiagiovalerio@gmail.com  
 - **LinkedIn:** 🔗  [LinkedIn](https://www.linkedin.com/in/valerio-di-biagio-429769387/)
