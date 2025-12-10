@@ -78,5 +78,6 @@ When I’m not coding, I enjoy:
 
 ---
 
-![Valerio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerioDiBiagio&show_icons=true&theme=dark&cache_seconds=86400)
+![Valerio's GitHub stats](https://github-readme-stats-git-masterorg-vercel-apo.vercel.app/api?username=ValerioDiBiagio&show_icons=true&theme=dark)
+
 
